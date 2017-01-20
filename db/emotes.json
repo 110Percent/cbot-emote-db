@@ -40,5 +40,11 @@
         "name": "NotLikeThis",
         "localURI": "../emotes/misc/NotLikeThis.webp",
         "webURI": "https://cdn.rawgit.com/110Percent/cbot-emote-db/master/emotes/misc/NotLikeThis.webp"
+    },
+    "110Percent": {
+        "id": 7,
+        "name": "110Percent",
+        "localURI": "../emotes/misc/110Percent.webp",
+        "webURI": "https://cdn.rawgit.com/110Percent/cbot-emote-db/master/emotes/misc/110Percent.webp"
     }
 }
