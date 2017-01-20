@@ -1,0 +1,37 @@
+{
+    "RainbowEyes": {
+        "id": 0,
+        "name": "RainbowEyes",
+        "localURI": "../emotes/eyes/RainbowEyes.webp"
+    },
+    "Thonkang": {
+        "id": 1,
+        "name": "Thonkang",
+        "localURI": "../emotes/thonkang/Thonkang.webp"
+    },
+    "mmLol": {
+        "id": 2,
+        "name": "mmLol",
+        "localURI": "../emotes/mmlol/mmLol.webp"
+    },
+    "eyesRight": {
+        "id": 3,
+        "name": "eyesRight",
+        "localURI": "../emotes/eyes/eyesRight.webp"
+    },
+    "eyesLeft": {
+        "id": 4,
+        "name": "eyesLeft",
+        "localURI": "../emotes/eyes/eyesLeft.webp"
+    },
+    "eyesFlipped": {
+        "id": 5,
+        "name": "eyesFlipped",
+        "localURI": "../emotes/eyes/eyesFlipped"
+    },
+    "NotLikeThis": {
+        "id": 6,
+        "name": "NotLikeThis",
+        "localURI": "../emotes/misc/NotLikeThis.webp"
+    }
+}
