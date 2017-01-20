@@ -3,42 +3,42 @@
         "id": 0,
         "name": "RainbowEyes",
         "localURI": "../emotes/eyes/RainbowEyes.webp",
-        "webURI": "https://raw.githubusercontent.com/110Percent/cbot-emote-db/master/emotes/eyes/RainbowEyes.webp"
+        "webURI": "https://cdn.rawgit.com/110Percent/cbot-emote-db/master/emotes/eyes/RainbowEyes.webp"
     },
     "Thonkang": {
         "id": 1,
         "name": "Thonkang",
         "localURI": "../emotes/thonkang/Thonkang.webp",
-        "webURI": "https://raw.githubusercontent.com/110Percent/cbot-emote-db/master/emotes/thonkang/Thonkang.webp"
+        "webURI": "https://cdn.rawgit.com/110Percent/cbot-emote-db/master/emotes/thonkang/Thonkang.webp"
     },
     "mmLol": {
         "id": 2,
         "name": "mmLol",
         "localURI": "../emotes/mmlol/mmLol.webp",
-        "webURI": "https://raw.githubusercontent.com/110Percent/cbot-emote-db/master/emotes/mmlol/mmLol.webp"
+        "webURI": "https://cdn.rawgit.com/110Percent/cbot-emote-db/master/emotes/mmlol/mmLol.webp"
     },
     "eyesRight": {
         "id": 3,
         "name": "eyesRight",
         "localURI": "../emotes/eyes/eyesRight.webp",
-        "webURI": "https://raw.githubusercontent.com/110Percent/cbot-emote-db/master/emotes/eyes/eyesRight.webp"
+        "webURI": "https://cdn.rawgit.com/110Percent/cbot-emote-db/master/emotes/eyes/eyesRight.webp"
     },
     "eyesLeft": {
         "id": 4,
         "name": "eyesLeft",
         "localURI": "../emotes/eyes/eyesLeft.webp",
-        "webURI": "https://raw.githubusercontent.com/110Percent/cbot-emote-db/master/emotes/eyes/eyesLeft.webp"
+        "webURI": "https://cdn.rawgit.com/110Percent/cbot-emote-db/master/emotes/eyes/eyesLeft.webp"
     },
     "eyesFlipped": {
         "id": 5,
         "name": "eyesFlipped",
         "localURI": "../emotes/eyes/eyesFlipped",
-        "webURI": "https://raw.githubusercontent.com/110Percent/cbot-emote-db/master/emotes/eyes/eyesFlipped.webp"
+        "webURI": "https://cdn.rawgit.com/110Percent/cbot-emote-db/master/emotes/eyes/eyesFlipped.webp"
     },
     "NotLikeThis": {
         "id": 6,
         "name": "NotLikeThis",
         "localURI": "../emotes/misc/NotLikeThis.webp",
-        "webURI": "https://raw.githubusercontent.com/110Percent/cbot-emote-db/master/emotes/misc/NotLikeThis.webp"
+        "webURI": "https://cdn.rawgit.com/110Percent/cbot-emote-db/master/emotes/misc/NotLikeThis.webp"
     }
 }
