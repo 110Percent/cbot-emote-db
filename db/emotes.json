@@ -46,5 +46,89 @@
         "name": "110Percent",
         "localURI": "../emotes/misc/110Percent.webp",
         "webURI": "https://cdn.rawgit.com/110Percent/cbot-emote-db/master/emotes/misc/110Percent.webp"
-    }
+    },
+    "PhoenixThink": {
+        "id": 8,
+        "name": "PhoenixThink",
+        "localURI": "../emotes/misc/PhoenixThink.webp",
+        "webURI": "https://cdn.rawgit.com/110Percent/cbot-emote-db/master/emotes/misc/PhoenixThink.webp"
+    },
+    "rays3": {
+        "id": 9,
+        "name": "rays3",
+        "localURI": "../emotes/rays/rays3.webp",
+        "webURI": "https://cdn.rawgit.com/110Percent/cbot-emote-db/master/emotes/rays/rays3.webp"
+    },
+    "raysA": {
+        "id": 10,
+        "name": "raysA",
+        "localURI": "../emotes/rays/raysA.webp",
+        "webURI": "https://cdn.rawgit.com/110Percent/cbot-emote-db/master/emotes/rays/raysA.webp"
+    },
+    "raysB": {
+        "id": 11,
+        "name": "raysB",
+        "localURI": "../emotes/rays/raysB.webp",
+        "webURI": "https://cdn.rawgit.com/110Percent/cbot-emote-db/master/emotes/rays/raysB.webp"
+    },
+    "raysC": {
+        "id": 12,
+        "name": "raysC",
+        "localURI": "../emotes/rays/raysC.webp",
+        "webURI": "https://cdn.rawgit.com/110Percent/cbot-emote-db/master/emotes/rays/raysC.webp"
+    },
+    "raysFox": {
+        "id": 13,
+        "name": "raysFox",
+        "localURI": "../emotes/rays/raysFox.webp",
+        "webURI": "https://cdn.rawgit.com/110Percent/cbot-emote-db/master/emotes/rays/raysFox.webp"
+    },
+    "raysH": {
+        "id": 14,
+        "name": "raysH",
+        "localURI": "../emotes/rays/raysH.webp",
+        "webURI": "https://cdn.rawgit.com/110Percent/cbot-emote-db/master/emotes/rays/raysH.webp"
+    },
+    "raysLove": {
+        "id": 15,
+        "name": "raysLove",
+        "localURI": "../emotes/rays/rays3.webp",
+        "webURI": "https://cdn.rawgit.com/110Percent/cbot-emote-db/master/emotes/rays/rays3.webp"
+    },
+    "raysShock": {
+        "id": 16,
+        "name": "raysShock",
+        "localURI": "../emotes/rays/raysShock.webp",
+        "webURI": "https://cdn.rawgit.com/110Percent/cbot-emote-db/master/emotes/rays/raysShock.webp"
+    },
+    "raysShrug": {
+        "id": 17,
+        "name": "raysShrug",
+        "localURI": "../emotes/rays/raysShrug.webp",
+        "webURI": "https://cdn.rawgit.com/110Percent/cbot-emote-db/master/emotes/rays/raysShrug.webp"
+    },
+    "raysShy": {
+        "id": 18,
+        "name": "raysShy",
+        "localURI": "../emotes/rays/raysShy.webp",
+        "webURI": "https://cdn.rawgit.com/110Percent/cbot-emote-db/master/emotes/rays/raysShy.webp"
+    },
+    "raysT": {
+        "id": 19,
+        "name": "raysT",
+        "localURI": "../emotes/rays/raysT.webp",
+        "webURI": "https://cdn.rawgit.com/110Percent/cbot-emote-db/master/emotes/rays/raysT.webp"
+    },
+    "raysThump": {
+        "id": 20,
+        "name": "raysThump",
+        "localURI": "../emotes/rays/raysThump.webp",
+        "webURI": "https://cdn.rawgit.com/110Percent/cbot-emote-db/master/emotes/rays/raysThump.webp"
+    },
+    "raysZ": {
+        "id": 21,
+        "name": "raysZ",
+        "localURI": "../emotes/rays/raysZ.webp",
+        "webURI": "https://cdn.rawgit.com/110Percent/cbot-emote-db/master/emotes/rays/raysZ.webp"
+    },
 }
