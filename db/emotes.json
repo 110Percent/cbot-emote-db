@@ -130,5 +130,41 @@
         "name": "raysZ",
         "localURI": "../emotes/rays/raysZ.webp",
         "webURI": "https://cdn.rawgit.com/110Percent/cbot-emote-db/master/emotes/rays/raysZ.webp"
+    },
+    "LUL": {
+        "id": 22,
+        "name": "LUL",
+        "localURI": "../emotes/lul/LUL.webp",
+        "webURI": "https://cdn.rawgit.com/110Percent/cbot-emote-db/master/emotes/lul/LUL.webp"
+    },
+    "ULULU": {
+        "id": 23,
+        "name": "ULULU",
+        "localURI": "../emotes/lul/ULULU.webp",
+        "webURI": "https://cdn.rawgit.com/110Percent/cbot-emote-db/master/emotes/lul/ULULU.webp"
+    },
+    "MEGALUL": {
+        "id": 24,
+        "name": "MEGALUL",
+        "localURI": "../emotes/lul/MEGALUL.webp",
+        "webURI": "https://cdn.rawgit.com/110Percent/cbot-emote-db/master/emotes/lul/MEGALUL.webp"
+    },
+    "ULTRALUL": {
+        "id": 25,
+        "name": "ULTRALUL",
+        "localURI": "../emotes/lul/ULTRALUL.webp",
+        "webURI": "https://cdn.rawgit.com/110Percent/cbot-emote-db/master/emotes/lul/ULTRALUL.webp"
+    },
+    "HYPERLUL": {
+        "id": 26,
+        "name": "HYPERLUL",
+        "localURI": "../emotes/lul/HYPERLUL.webp",
+        "webURI": "https://cdn.rawgit.com/110Percent/cbot-emote-db/master/emotes/lul/HYPERLUL.webp"
+    },
+    "brexitLUL": {
+        "id": 27,
+        "name": "brexitLUL",
+        "localURI": "../emotes/lul/brexitLUL.webp",
+        "webURI": "https://cdn.rawgit.com/110Percent/cbot-emote-db/master/emotes/lul/brexitLUL.webp"
     }
 }
