@@ -166,5 +166,41 @@
         "name": "brexitLUL",
         "localURI": "../emotes/lul/brexitLUL.webp",
         "webURI": "https://cdn.rawgit.com/110Percent/cbot-emote-db/master/emotes/lul/brexitLUL.webp"
+    },
+    "mmRotten": {
+        "id": 28,
+        "name": "mmRotten",
+        "localURI": "../emotes/mmlol/mmRotten.webp",
+        "webURI": "https://cdn.rawgit.com/110Percent/cbot-emote-db/master/emotes/mmlol/mmRotten.webp"
+    },
+    "mmPearl": {
+        "id": 29,
+        "name": "mmPearl",
+        "localURI": "../emotes/mmlol/mmPearl.webp",
+        "webURI": "https://cdn.rawgit.com/110Percent/cbot-emote-db/master/emotes/mmlol/mmPearl.webp"
+    },
+    "sadLol": {
+        "id": 30,
+        "name": "sadLol",
+        "localURI": "../emotes/mmlol/sadLol.webp",
+        "webURI": "https://cdn.rawgit.com/110Percent/cbot-emote-db/master/emotes/mmlol/sadLol.webp"
+    },
+    "madLol": {
+        "id": 31,
+        "name": "madLol",
+        "localURI": "../emotes/mmlol/madLol.webp",
+        "webURI": "https://cdn.rawgit.com/110Percent/cbot-emote-db/master/emotes/mmlol/madLol.webp"
+    },
+    "mmUni": {
+        "id": 32,
+        "name": "mmUni",
+        "localURI": "../emotes/mmlol/mmUni.webp",
+        "webURI": "https://cdn.rawgit.com/110Percent/cbot-emote-db/master/emotes/mmlol/mmUni.webp"
+    },
+    "TemWoa": {
+        "id": 33,
+        "name": "TemWoa",
+        "localURI": "../emotes/misc/TemWoa.webp",
+        "webURI": "https://cdn.rawgit.com/110Percent/cbot-emote-db/master/emotes/misc/TemWoa.webp"
     }
 }
